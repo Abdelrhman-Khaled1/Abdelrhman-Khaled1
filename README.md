@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Abdelrhman Khaled</h1>
-<h3 align="center">A Computer Science student, learning Native Android development</h3>
+### Hello World 👋, I'm Abdelrhman Khaled
+## A Computer Science student, learning Native Android development
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman-khaled1" /> </p>
 
@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **let it empty now**
 
-<h3 align="left">Connect with me:</h3>
+### Talk with me, I am kinda awesome: 
 <p align="left">
 <a href="https://linkedin.com/in/abdelrhman-khaled1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdelrhman-khaled1" height="30" width="40" /></a>
 <a href="https://codeforces.com/profile/abdelrhman_khaled." target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="abdelrhman_khaled." height="30" width="40" /></a>
