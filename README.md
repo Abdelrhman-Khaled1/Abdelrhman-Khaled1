@@ -1,7 +1,11 @@
-### Hello World 👋, I'm Abdelrhman Khaled
-## A Computer Science student, learning Native Android development
+### Hi There 👋, I'm Abdelrhman Khaled
+## A Computer Science student, learning Android Native development
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman-khaled1" /> </p>
+
+
+
+![working_from](https://user-images.githubusercontent.com/73125122/189867422-1bf890e4-8fd6-4374-b537-aebf148f7450.gif)
 
 - 🌱 I’m currently learning **Android studio**
 
@@ -11,7 +15,7 @@
 
 - 📫 How to reach me **AbdelrhmanKhaled17013@gmail.com**
 
-- ⚡ Fun fact **let it empty now**
+- ⚡ Fun fact **you will fall in love with me**
 
 ### Talk with me, I am kinda awesome: 
 <p align="left">
