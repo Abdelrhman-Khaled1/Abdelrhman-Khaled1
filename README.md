@@ -1,5 +1,5 @@
 ### Hi There 👋, I'm Abdelrhman Khaled
-## A Computer Science student, learning Android Native development
+## A Computer Science student, learning Android Native
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdelrhman-khaled1&label=Profile%20views&color=0e75b6&style=flat" alt="abdelrhman-khaled1" /> </p>
 
